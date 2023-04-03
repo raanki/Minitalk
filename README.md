@@ -1,4 +1,4 @@
-# 🖧 Minitalk
+# 📶 Minitalk
 <p>
   <img src="Score_Minitalk.png" alt="Score Minitalk 125/100" align="left">
 
